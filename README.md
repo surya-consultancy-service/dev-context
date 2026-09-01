@@ -1,9 +1,9 @@
 # dev-context
-> Instantly capture your active developer context-git branch, modified files, and notes into a clean Markdown snippet
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=github)](https://github.com/sponsors/surya-consultancy-service)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-> Instantly capture your working developer context—git branch, modified files, terminal state, and notes—into a clean Markdown file before switching tasks or ending your day.
+> Instantly capture your active developer context—git branch, modified files, and notes into a clean Markdown snippet.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=github)(https://github.com/sponsors/surya-consultancy-service)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)]
 ---
 ## Key Features
 * **Git Aware:** Automatically logs active branch, recent commits, and uncommitted changes (`git status`).
