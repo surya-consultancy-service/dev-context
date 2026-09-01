@@ -1,5 +1,5 @@
 # dev-context
-Instantly capture your active developer context-git branch, modified files, and notes into a clean Markdown snippet
+> Instantly capture your active developer context-git branch, modified files, and notes into a clean Markdown snippet
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=github)](https://github.com/sponsors/surya-consultancy-service)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
